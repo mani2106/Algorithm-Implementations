@@ -1,7 +1,7 @@
 
 # Implementing Linear Regression with Gradient Descent
 
-Important things to implement in code
+If the math does not render have a look at this post in my [blog](https://mani2106.github.io/Blog-Posts/implementation/machine%20learning/linear%20regression/2020/08/31/linear-regression-grad-desc.html)
 
 ## The Cost Function
 
