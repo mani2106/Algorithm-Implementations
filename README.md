@@ -7,8 +7,8 @@ Index of algorithms implemented
 
 - Linear Regression
 
-- Logistic Regression
+- Logistic Regression [soon]
 
 ## Deep Learning
 
-- Simple Perceptron
+- Simple Perceptron [soon]
